@@ -29,6 +29,6 @@ Each row of the dataset contains the following columns:
  - Go to runtime and simply click on 'Run all'
 
 # Contributors
- - (Amisha Aggarwal)[https://github.com/amishaagg]
- - [https://github.com/kesar19051](Kesar Shrivastava)
- - [https://github.com/yash19130](Yash Tanwar)
+ - [Amisha Aggarwal](https://github.com/amishaagg)
+ - [Kesar Shrivastava](https://github.com/kesar19051)
+ - [Yash Tanwar](https://github.com/yash19130)
