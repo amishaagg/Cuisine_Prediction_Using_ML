@@ -21,3 +21,7 @@ Each row of the dataset contains the following columns:
 - course: course of the meal - starter, main course, dessert, etc
 - state: the state where the dish is famous or is originated
 - region: the region where the state belongs
+
+# Steps to run
+ - Upload the dataset 'indian_food.csv' on the colab notebook
+ - Go to runtime and simply click on 'Run all'
