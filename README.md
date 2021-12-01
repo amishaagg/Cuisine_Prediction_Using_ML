@@ -24,6 +24,6 @@ Each row of the dataset contains the following columns:
 
 # Steps to run
  - Download EDA.ipynb and Region_and_Flavor_Prediction.ipynb
- - Open the notebooks on colab.research.google.com
+ - Open the notebooks on [colab.research.google.com]
  - Upload the dataset 'indian_food.csv' on the colab notebooks
  - Go to runtime and simply click on 'Run all'
